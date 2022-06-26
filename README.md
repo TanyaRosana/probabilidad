@@ -17,4 +17,4 @@ Asienta las bases para convertirte en el Data Scientist del futuro con todo el c
 6. Variables multidimensionales
 7. Convergencia y Teorema Central del lC-mite
 
-Y todo con mC!s de** 40 horas** de vC-deo bajo demanda, cientos de ejercicios, tareas, talleres y trucos de los profesores para que te conviertas en un experto de la materia.
+Y todo con mC!s de   ** 40 horas ** ABC  de vC-deo bajo demanda, cientos de ejercicios, tareas, talleres y trucos de los profesores para que te conviertas en un experto de la materia.
